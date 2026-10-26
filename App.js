@@ -1,6 +1,6 @@
 import {
   StatusBar,
-  Image,
+  Image
 } from 'react-native';
 import { Styles } from './Styles/Styles';
 import Home from './Screens/Home';

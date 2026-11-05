@@ -34,7 +34,7 @@ export const styles = StyleSheet.create({
         width: 60,
         height: 60,
         marginLeft: 15,
-        marginRight: 20,
+        marginRight: 20
     },
     welcome: {
         color: '#000',

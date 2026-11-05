@@ -22,7 +22,7 @@ export const styles = StyleSheet.create({
         alignItems:'center',
         width:'100%',
         height: 70,
-        display:'flex',
+        display:'flex'
     },
     headerLeft:{
         flexDirection:'row',

@@ -51,7 +51,7 @@ export const styles = StyleSheet.create({
         justifyContent:'center',
         alignItems:'center',
         marginRight: 20,
-        display:'flex',
+        display:'flex'
     },
     card: {
        marginLeft: 40,

@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
         flex: 1,
         backgroundColor:'white',
         paddingTop:70,
-        alignItems:'center',
+        alignItems:'center'
     },
     homeContainer:{
         flex: 1,

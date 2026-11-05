@@ -28,7 +28,7 @@ export const styles = StyleSheet.create({
         flexDirection:'row',
         alignItems:'center',
         display:'flex',
-        height: 70,
+        height: 70
     },
     profileImage:{
         width: 60,

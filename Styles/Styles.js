@@ -42,7 +42,7 @@ export const styles = StyleSheet.create({
     },
     name: {
         fontSize: 20,
-        fontWeight: 'bold',
+        fontWeight: 'bold'
     },
     searchContainer:{
         width: 40,

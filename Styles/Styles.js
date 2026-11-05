@@ -14,7 +14,7 @@ export const styles = StyleSheet.create({
     homeContainer:{
         flex: 1,
         backgroundColor:'white',
-        paddingTop: 40,
+        paddingTop: 40
     },
     headerContainer:{
         flexDirection:'row',
